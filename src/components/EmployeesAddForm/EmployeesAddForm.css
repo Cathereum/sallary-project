@@ -1,0 +1,24 @@
+.add-form-wrapper {
+  margin-top: 30px;
+  padding: 10px 10px;
+  background-color: #2c9ccc;
+  border-radius: 4px;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.15);
+  color: #fff;
+}
+
+.add-form-wrapper input {
+  width: 300px;
+  height: 30px;
+  margin-top: 5px;
+}
+
+.add-form-wrapper button {
+  margin-top: 5px;
+}
+
+.add-form-wrapper form {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}

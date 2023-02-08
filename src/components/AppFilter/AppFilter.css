@@ -1,0 +1,6 @@
+.btn-group {
+  margin-top: 20px;
+  display: flex;
+  justify-content: start;
+  gap: 5px;
+}
